@@ -1,7 +1,4 @@
-# I deed it! 
-
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
-
+ 
 ## Demo
 
 Check the author of the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
