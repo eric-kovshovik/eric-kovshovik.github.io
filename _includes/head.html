@@ -88,8 +88,4 @@
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
     <!-- Google analytics -->
     google_analytics: UA-119547256-1
-
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
 </head>
