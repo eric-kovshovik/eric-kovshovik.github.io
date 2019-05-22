@@ -1,8 +1,8 @@
-title: What is up? Header!
+title: Eric Kovshovik
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Software developer with a year of experience in a startup(Decisely - hire to retire solutions).
+  Key technologies: Ruby on Rails, JavaScript, React. In free time working on a few Slack applications
+  based around AWS Lambda(plus other services) and Node.js
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Eric Kovshovik # add your name
-author-img: eric-kovshovik.png # add your photo
+author-img: eric-kovshovik-guitar.png # add your photo
 about-author: All things web, cycling/running and musical instruments # add description
 social-instagram: bylbanos #add your Instagram handle
 social-facebook: jaroslav.kovshovik # add your Facebook handle
